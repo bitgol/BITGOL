@@ -44,18 +44,18 @@ open index.html
 
 | Path | Deskripsi | Link |
 |------|-----------|------|
-| `/` | Root proyek | [Lihat di GitHub](https://github.com/ngemiel/ngemiel) |
-| `index.html` | Halaman utama website | [index.html](https://github.com/ngemiel/ngemiel/blob/main/index.html) |
-| `styles.css` | Styling global (warna, layout, responsif) | [styles.css](https://github.com/ngemiel/ngemiel/blob/main/styles.css) |
-| `script.js` | Logika interaktif: scroll, chatbot, modal | [script.js](https://github.com/ngemiel/ngemiel/blob/main/script.js) |
-| `README.md` | Dokumentasi proyek (ini) | [README.md](https://github.com/ngemiel/ngemiel/blob/main/README.md) |
-| `LICENSE` | Lisensi MIT (open source) | [LICENSE](https://github.com/ngemiel/ngemiel/blob/main/LICENSE) |
-| `CI-Guideline-Ngroso.pdf` | Panduan Corporate Identity | [CI-Guideline-Ngroso.pdf](https://github.com/ngemiel/ngemiel/blob/main/CI-Guideline-Ngemiel.pdf) |
-| `assets/` | Folder aset visual | [assets/](https://github.com/ngroso/ngemiel/tree/main/assets) |
-| `assets/cindo.svg` | Logo sementara (akan diganti) | [cindo.svg](https://github.com/ngemiel/ngemiel/blob/main/assets/cindo.svg) |
-| `assets/newsui-logo.svg` | Logo resmi Newsui (baru) | [ngemiel.svg](https://github.com/ngemiel/ngemiel/blob/main/assets/ngemiel.svg) |
-| `assets/welcome-icon.png` | Ikon banner selamat datang | [welcome-icon.png](https://github.com/ngemiel/ngemiel/blob/main/assets/welcome-icon.png) |
-| `assets/favicon.ico` | Favicon browser | [favicon.ico](https://github.com/ngemiel/ngemiel/blob/main/assets/favicon.ico) |
+| `/` | Root proyek | [Lihat di GitHub](https://github.com/bitgol/bitgol) |
+| `index.html` | Halaman utama website | [index.html](https://github.com/bitgol/bitgol/blob/main/index.html) |
+| `styles.css` | Styling global (warna, layout, responsif) | [styles.css](https://github.com/bitgol/bitgol/blob/main/styles.css) |
+| `script.js` | Logika interaktif: scroll, chatbot, modal | [script.js](https://github.com/bitgol/bitgol/blob/main/script.js) |
+| `README.md` | Dokumentasi proyek (ini) | [README.md](https://github.com/bitgol/bitgol/blob/main/README.md) |
+| `LICENSE` | Lisensi MIT (open source) | [LICENSE](https://github.com/bitgol/bitgol/blob/main/LICENSE) |
+| `CI-Guideline-Ngroso.pdf` | Panduan Corporate Identity | [CI-Guideline-Ngroso.pdf](https://github.com/bitgol/bitgol/blob/main/CI-Guideline-Bitgol.pdf) |
+| `assets/` | Folder aset visual | [assets/](https://github.com/bitgol/bitgol/tree/main/assets) |
+| `assets/cindo.svg` | Logo sementara (akan diganti) | [cindo.svg](https://github.com/bitgol/bitgol/blob/main/assets/cindo.svg) |
+| `assets/newsui-logo.svg` | Logo resmi Newsui (baru) | [ngemiel.svg](https://github.com/bitgol/bitgol/blob/main/assets/ngemiel.svg) |
+| `assets/welcome-icon.png` | Ikon banner selamat datang | [welcome-icon.png](https://github.com/bitgol/bitgol/blob/main/assets/welcome-icon.png) |
+| `assets/favicon.ico` | Favicon browser | [favicon.ico](https://github.com/bitgol/bitgol/blob/main/assets/favicon.ico) |
 
 ---
 
@@ -74,10 +74,10 @@ open index.html
 
 | Platform       | Link                                                                 |
 |----------------|----------------------------------------------------------------------|
-| Website        | [ngroso.github.io](https://ngroso.github.io/)                    |
+| Website        | [bitgol.github.io](https://bitgol.github.io/)                        |
 | Instagram      | [instagram.com/cindolabs](https://www.instagram.com/cindolabs/)      |
-| X (Twitter)    | [@ngroso9](https://x.com/ngroso9)                                |
-| Facebook       | [facebook.com/cindolabs](https://www.facebook.com/cindolabs)         |
+| X (Twitter)    | [@cindolab](https://x.com/cindolab)                                  |
+| Facebook       | [facebook.com/cindolab](https://www.facebook.com/cindolab)           |
 
 ---
 
@@ -111,10 +111,10 @@ open index.html
 
 ## Lisensi
 
-- © 2025 Ngroso. All rights reserved.
+- © 2025 BitGol. All rights reserved.
 - Kode sumber: MIT License (lihat LICENSE)  
 - Aset visual: Hak cipta dilindungi  
 - `cindo.eth` — **verified on-chain, trusted off-chain.**
-- Dibuat dengan :heart: oleh Cindo Labs 
+- Dibuat dengan :heart: oleh Cindo Lab
 - “Kita ada di sini sejak awal.”
-- “Di Ngroso, Anda tidak hanya menginap — Anda berinvestasi di masa depan kemewahan.”
+- “Di BitGol, Anda tidak hanya menginap — Anda berinvestasi di masa depan kemewahan.”
