@@ -1,14 +1,14 @@
-# BitGol - Hotel Kreatif & Investasi Bitcoin
+# CINDO LAB - Hotel Kreatif & Investasi Bitcoin
 
-![Bitgol Banner](https://r2.primal.net/cache/8/dd/96/8dd96aacddf188ba3d828a63e484911b33be9b224b70326c1998afd862ad2ddd.jpg)
+![Cindo Lab Banner](https://r2.primal.net/cache/8/dd/96/8dd96aacddf188ba3d828a63e484911b33be9b224b70326c1998afd862ad2ddd.jpg)
 
 > **Kemewahan Bertemu Bitcoin**  
 > Hotel premium dengan peluang investasi saham berbasis **smart contract** — transparan, aman, dan menguntungkan.
 ---
 
-## Tentang Bitgol
+## Tentang Cindo Lab
 
-**Bitgol** adalah proyek inovatif yang menggabungkan:
+**Cindo Lab** adalah proyek inovatif yang menggabungkan:
 - **Hospitality kelas dunia** (hotel sederhana hingga resor bintang 5)
 - **Investasi cerdas** melalui saham berbasis bitcoin
 - **Smart contract** untuk bagi hasil otomatis & transparan
@@ -31,12 +31,12 @@ Kami hadir untuk tamu yang mencari kemewahan — dan investor yang mencari masa 
 
 ## Demo Website
 
-[https://ngemiel.id](https://ngemiel.id) *(coming soon)*  
+[https://cindo.pages.dev](https://cindo.pages.dev) *(coming soon)*  
 Atau coba versi lokal:
 
 ```bash
-git clone https://github.com/ngemiel/ngemiel.git
-cd ngemiel
+git clone https://github.com/cindolab/cindolab.git
+cd cindolab
 open index.html
 ```
 
@@ -44,18 +44,18 @@ open index.html
 
 | Path | Deskripsi | Link |
 |------|-----------|------|
-| `/` | Root proyek | [Lihat di GitHub](https://github.com/bitgol/bitgol) |
-| `index.html` | Halaman utama website | [index.html](https://github.com/bitgol/bitgol/blob/main/index.html) |
-| `styles.css` | Styling global (warna, layout, responsif) | [styles.css](https://github.com/bitgol/bitgol/blob/main/styles.css) |
-| `script.js` | Logika interaktif: scroll, chatbot, modal | [script.js](https://github.com/bitgol/bitgol/blob/main/script.js) |
-| `README.md` | Dokumentasi proyek (ini) | [README.md](https://github.com/bitgol/bitgol/blob/main/README.md) |
-| `LICENSE` | Lisensi MIT (open source) | [LICENSE](https://github.com/bitgol/bitgol/blob/main/LICENSE) |
-| `CI-Guideline-Ngroso.pdf` | Panduan Corporate Identity | [CI-Guideline-Ngroso.pdf](https://github.com/bitgol/bitgol/blob/main/CI-Guideline-Bitgol.pdf) |
-| `assets/` | Folder aset visual | [assets/](https://github.com/bitgol/bitgol/tree/main/assets) |
-| `assets/cindo.svg` | Logo sementara (akan diganti) | [cindo.svg](https://github.com/bitgol/bitgol/blob/main/assets/cindo.svg) |
-| `assets/newsui-logo.svg` | Logo resmi Newsui (baru) | [ngemiel.svg](https://github.com/bitgol/bitgol/blob/main/assets/ngemiel.svg) |
-| `assets/welcome-icon.png` | Ikon banner selamat datang | [welcome-icon.png](https://github.com/bitgol/bitgol/blob/main/assets/welcome-icon.png) |
-| `assets/favicon.ico` | Favicon browser | [favicon.ico](https://github.com/bitgol/bitgol/blob/main/assets/favicon.ico) |
+| `/` | Root proyek | [Lihat di GitHub](https://github.com/cindolab/cindolab) |
+| `index.html` | Halaman utama website | [index.html](https://github.com/cindolab/cindolab/blob/main/index.html) |
+| `styles.css` | Styling global (warna, layout, responsif) | [styles.css](https://github.com/cindolab/cindolab/blob/main/styles.css) |
+| `script.js` | Logika interaktif: scroll, chatbot, modal | [script.js](https://github.com/cindolab/cindolab/blob/main/script.js) |
+| `README.md` | Dokumentasi proyek (ini) | [README.md](https://github.com/cindolab/cindolab/blob/main/README.md) |
+| `LICENSE` | Lisensi MIT (open source) | [LICENSE](https://github.com/cindolab/cindolab/blob/main/LICENSE) |
+| `CI-Guideline-Ngroso.pdf` | Panduan Corporate Identity | [CI-Guideline-CindoLab.pdf](https://github.com/cindolab/cindolab/blob/main/CI-Guideline-CindoLab.pdf) |
+| `assets/` | Folder aset visual | [assets/](https://github.com/cindolab/cindolab/tree/main/assets) |
+| `assets/cindo.svg` | Logo sementara (akan diganti) | [cindo.svg](https://github.com/cindolab/cindolab/blob/main/assets/cindo.svg) |
+| `assets/newsui-logo.svg` | Logo resmi Newsui (baru) | [ngemiel.svg](https://github.com/cindolab/cindolab/blob/main/assets/ngemiel.svg) |
+| `assets/welcome-icon.png` | Ikon banner selamat datang | [welcome-icon.png](https://github.com/cindolab/cindolab/blob/main/assets/welcome-icon.png) |
+| `assets/favicon.ico` | Favicon browser | [favicon.ico](https://github.com/cindolab/cindolab/blob/main/assets/favicon.ico) |
 
 ---
 
@@ -74,7 +74,7 @@ open index.html
 
 | Platform       | Link                                                                 |
 |----------------|----------------------------------------------------------------------|
-| Website        | [bitgol.github.io](https://bitgol.github.io/)                        |
+| Website        | [cindolab.github.io](https://cindolab.github.io/)                        |
 | Instagram      | [instagram.com/cindolabs](https://www.instagram.com/cindolabs/)      |
 | X (Twitter)    | [@cindolab](https://x.com/cindolab)                                  |
 | Facebook       | [facebook.com/cindolab](https://www.facebook.com/cindolab)           |
@@ -111,10 +111,10 @@ open index.html
 
 ## Lisensi
 
-- © 2025 BitGol. All rights reserved.
+- © 2025 CindoLab. All rights reserved.
 - Kode sumber: MIT License (lihat LICENSE)  
 - Aset visual: Hak cipta dilindungi  
 - `cindo.eth` — **verified on-chain, trusted off-chain.**
 - Dibuat dengan :heart: oleh Cindo Lab
 - “Kita ada di sini sejak awal.”
-- “Di BitGol, Anda tidak hanya menginap — Anda berinvestasi di masa depan kemewahan.”
+- “Di CindoLab, Anda tidak hanya menginap — Anda berinvestasi di masa depan kemewahan.”
