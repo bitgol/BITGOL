@@ -8,9 +8,9 @@
 > Hotel premium dengan peluang investasi saham berbasis **smart contract** — transparan, aman, dan menguntungkan.
 ---
 
-## Tentang Cindo Lab
+## Tentang CindoLab
 
-**Cindo Lab** adalah proyek inovatif yang menggabungkan:
+**CindoLab** adalah proyek inovatif yang menggabungkan:
 - **Hospitality kelas dunia** (hotel sederhana hingga resor bintang 5)
 - **Investasi cerdas** melalui saham berbasis bitcoin
 - **Smart contract** untuk bagi hasil otomatis & transparan
@@ -76,8 +76,8 @@ open index.html
 
 | Platform       | Link                                                                 |
 |----------------|----------------------------------------------------------------------|
-| Website        | [cindolab.github.io](https://cindolab.github.io/)                        |
-| Instagram      | [instagram.com/cindolabs](https://www.instagram.com/cindolabs/)      |
+| Website        | [cindolab.github.io](https://cindolab.github.io/)                    |
+| Instagram      | [instagram.com/cindolabot](https://www.instagram.com/cindolabot/)    |
 | X (Twitter)    | [@cindolab](https://x.com/cindolab)                                  |
 | Facebook       | [facebook.com/cindolab](https://www.facebook.com/cindolab)           |
 
@@ -87,15 +87,15 @@ open index.html
 
 | Tahun | Fokus Utama | Rencana Strategis |
 |-------|-------------|------------------|
-| **2025** | Fondasi & Branding | - Peluncuran platform `Hocindo` <br> - Logo & identitas visual <br> - Website resmi & profil investasi |
+| **2025** | Fondasi & Branding | - Peluncuran platform `cindolab` <br> - Logo & identitas visual <br> - Website resmi & profil investasi |
 | **2026** | Ekspansi & Produk | - Pembukaan hotel kreatif pertama <br> - Paket pengalaman romantis & bisnis <br> - Program investasi properti tahap awal |
 | **2027** | Skala & Globalisasi | - Ekspansi ke beberapa kota besar di Indonesia <br> - Kemitraan internasional <br> - Platform investasi berbasis bitcoin |
 
 ---
 
-## Calon Anggota Cindo Lab Cabang Malang
+## Calon Anggota CindoLab Cabang Malang
 
-![Cindo Lab Banner](https://r2.primal.net/cache/e/7f/c9/e7fc986216b10a501c613a85faf6ee9cce0509bf9ab570f6e7db96a8681e35c9.jpg)
+![CindoLab Banner](https://r2.primal.net/cache/e/7f/c9/e7fc986216b10a501c613a85faf6ee9cce0509bf9ab570f6e7db96a8681e35c9.jpg)
 
 ---
 
@@ -123,6 +123,6 @@ open index.html
 - Kode sumber: MIT License (lihat LICENSE)  
 - Aset visual: Hak cipta dilindungi  
 - `cindo.eth` — **verified on-chain, trusted off-chain.**
-- Dibuat dengan :heart: oleh Cindo Lab
+- Dibuat dengan :heart: oleh CindoLab
 - “Kita ada di sini sejak awal.”
 - “Di CindoLab, Anda tidak hanya menginap — Anda berinvestasi di masa depan kemewahan.”
