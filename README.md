@@ -55,7 +55,7 @@ open index.html
 | `CI-Guideline-Ngroso.pdf` | Panduan Corporate Identity | [CI-Guideline-CindoLab.pdf](https://github.com/cindolab/cindolab/blob/main/CI-Guideline-CindoLab.pdf) |
 | `assets/` | Folder aset visual | [assets/](https://github.com/cindolab/cindolab/tree/main/assets) |
 | `assets/cindo.svg` | Logo sementara (akan diganti) | [cindo.svg](https://github.com/cindolab/cindolab/blob/main/assets/cindo.svg) |
-| `assets/newsui-logo.svg` | Logo resmi Newsui (baru) | [ngemiel.svg](https://github.com/cindolab/cindolab/blob/main/assets/ngemiel.svg) |
+| `assets/cindolab.svg` | Logo resmi CindoLab | [cindolab.svg](https://github.com/cindolab/cindolab/blob/main/assets/cindolab.svg) |
 | `assets/welcome-icon.png` | Ikon banner selamat datang | [welcome-icon.png](https://github.com/cindolab/cindolab/blob/main/assets/welcome-icon.png) |
 | `assets/favicon.ico` | Favicon browser | [favicon.ico](https://github.com/cindolab/cindolab/blob/main/assets/favicon.ico) |
 
